@@ -7,11 +7,17 @@
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
   },
+  "proxy": "http://localhost:3000",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "author": "Viki",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4cc100/todosfrontend.git"
   },
   "eslintConfig": {
     "extends": "react-app"
